@@ -249,6 +249,8 @@ Built with build_runner/aot in 41s with warnings; wrote 30 outputs.
 
 ![alt text](/img/image-10.png)
 
+![alt text](/img/image-12.png)
+
 **แนบภาพหน้าจอหน้า My Drafts ขณะ Offline:**  
 
 ![alt text](/img/image-11.png)
